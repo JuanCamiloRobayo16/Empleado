@@ -1,4 +1,3 @@
-# Caso Carro
+# Diagrama De Clase
 
 ## Diagrama de clases
-![Diagrama de Clases](diagrama.png "Diagrama de Clases")
